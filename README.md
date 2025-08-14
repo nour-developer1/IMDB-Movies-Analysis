@@ -60,20 +60,14 @@ This Power BI project delivers an analytics dashboard built from IMDB movie data
 
 ## 🖼️ Screenshots (Optional)
 
-> Add images to a `screenshots/` folder and reference them here.
+> Add images to a `<img width="1412" height="791" alt="IMDB Photo" src="https://github.com/user-attachments/assets/2d357ecc-9782-430e-8bfe-f90dbfc19e56" />
+` folder and reference them here.
 
 - Overview  
   `![Overview](screenshots/overview.png)`
-- Ratings & Genres  
-  `![Ratings](screenshots/ratings.png)`
 
----
 
-## 📜 License
-
-MIT — see [LICENSE](LICENSE).
-
----
+-----
 
 ## 🙋‍♀️ Contact
 
