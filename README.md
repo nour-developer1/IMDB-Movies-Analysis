@@ -55,6 +55,15 @@ This Power BI project delivers an analytics dashboard built from IMDB movie data
 - Consistent theming and tooltip pages for context.
 
 
+----
+## 🖼️ Screenshots (Optional)
+
+> Add images to a `https://drive.google.com/file/d/1EpBbNWFMs6-h7zdsXoUckzOUE82kG99j/view?usp=sharing` folder and reference them here.
+
+- Overview  
+  `![Overview](screenshots/overview.png)`
+
+
 
 ## 🙋‍♀️ Contact
 
