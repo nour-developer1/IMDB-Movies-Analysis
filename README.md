@@ -20,8 +20,6 @@ This Power BI project delivers an analytics dashboard built from IMDB movie data
 - `IMDB virsion1.pbix` – Power BI report (data model + visuals)
 - `README.md` – You’re here
 
-> If your PBIX exceeds 100 MB, enable Git LFS and track `*.pbix`.
-
 ---
 
 ## 🧰 Requirements
