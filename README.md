@@ -57,6 +57,6 @@ This Power BI project delivers an analytics dashboard built from IMDB movie data
 
 ----
 
-## 🙋‍♀️ Contact
+## Contact
 
 For feedback or collaboration, open an issue or reach out via GitHub.
