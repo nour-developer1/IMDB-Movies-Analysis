@@ -59,7 +59,7 @@ This Power BI project delivers an analytics dashboard built from IMDB movie data
 ## 🖼️ Screenshots (Optional)
 
 - Overview  
-  `![Overview](screenshots/overview.png)`
+  `![Overview](IMDP Photo.png)`
 
 
 
